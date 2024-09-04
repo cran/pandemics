@@ -1,0 +1,12 @@
+e1144abdf45410cb8ffaba83855ce77c *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+0f85e99945a601626172247cb015a1b7 *R/Functions_package.R
+3db3603fdc6ab6ba500cac69b4611d80 *data/covid.rda
+3041526dbe3774bc7800f02712c85a92 *man/covid.Rd
+a647b4c1ebf6b3e704903b6611fd16fd *man/forecasting.Rd
+c6b58ada7323f8df1f55accf31beb67f *man/hazard2D.Rd
+caf1103e7becf42e10c7827617d5c9cc *man/hazard2Dmiss.Rd
+0eee2d731ef00e22ee81e1a32a14eb63 *man/medtime.Rd
+04c0a1048d2bb7630b2d0770de6ad3e3 *man/pandemics-package.Rd
+b1b33d87e46dd3841f553155bedac88f *man/poutcome.Rd
+2739fa1a9e8e2b3bdd6c4c18d2211da5 *man/rate2Dmiss.Rd
